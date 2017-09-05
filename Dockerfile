@@ -26,6 +26,7 @@ RUN apt-get update                                        && \
       ipython                                                \
       ipython-notebook                                       \
       python-tk                                              \
+      python-matplotlib                                      \
       python-numpy                                           \
       python-scipy
 
